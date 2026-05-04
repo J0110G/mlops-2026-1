@@ -1,0 +1,14 @@
+wandb
+.env
+venv
+*.pyc
+__pycache__
+
+# Datasets
+# confusion_intents.yml
+
+# Modelos
+*.keras
+*.h5
+*.joblib
+*.pkl
